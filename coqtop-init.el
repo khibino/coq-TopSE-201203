@@ -1,0 +1,1 @@
+(setq coq-prog-name "/usr/local/coq-8.3pl2-with-scala/bin/coqtop")
